@@ -1,0 +1,7 @@
+ios/ObjCRuntime/Messaging.g.cs
+ios/GoogleAdMobAds/GADBannerView.g.cs
+ios/GoogleAdMobAds/GADBannerViewDelegate.g.cs
+ios/GoogleAdMobAds/GADInterstitial.g.cs
+ios/GoogleAdMobAds/GADInterstitialDelegate.g.cs
+ios/GoogleAdMobAds/GADRequest.g.cs
+ios/GoogleAdMobAds/GADRequestError.g.cs
